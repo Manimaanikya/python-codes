@@ -1,0 +1,7 @@
+print("perform arithmatic operations")
+A=int(input('enter 1st number :'))
+B=int(input('enter 2nd number:'))
+print("addition",A+B)
+print("subtraction",A-B)
+print("multiplication",A*B)
+print("division",A/B)
